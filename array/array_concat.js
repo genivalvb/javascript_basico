@@ -7,4 +7,4 @@ console.log(cars);
 console.log(old_cars);
 console.log(new_old_cars);
 
-console.log(new_old_cars.constructor)
+console.log(new_old_cars.constructor);
